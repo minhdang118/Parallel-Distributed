@@ -1,0 +1,21 @@
+Input file 1
+Serial: 1422
+Serial time is: 0.450416 milliseconds.
+Parallel with 1 threads: 1422
+Parallel time is: 33.3967 milliseconds.
+Parallel with 2 threads: 1422
+Parallel time is: 40.1981 milliseconds.
+Parallel with 4 threads: 1422
+Parallel time is: 48.3801 milliseconds.
+Parallel with 8 threads: 1422
+Parallel time is: 83.4706 milliseconds.
+Parallel with 16 threads: 1422
+Parallel time is: 188.187 milliseconds.
+
+Input file 2
+Serial: 304858
+Serial time is: 6362.91 milliseconds.
+Parallel with 1 threads: 304858
+Parallel time is: 11319.1 milliseconds.
+Parallel with 2 threads: 304858
+Parallel time is: 9198.99 milliseconds.

@@ -1,0 +1,58 @@
+1. Read-Write Lock Runtime (Prioritize Read)
+Input file 1
+Duration: 189.937 miliseconds.
+
+Input file 2
+Duration: 671.887 miliseconds.
+
+Input file 3
+Duration: 364.881 miliseconds.
+
+Input file 4
+Duration: 1672.42 miliseconds.
+
+Input file 5
+Duration: 556.812 miliseconds.
+
+Input file 6
+Duration: 2541.19 miliseconds.
+
+
+2. Prioritize Write Lock Runtime
+Input file 1
+Duration: 260.927 miliseconds.
+
+Input file 2
+Duration: 1022.48 miliseconds.
+
+Input file 3
+Duration: 367.263 miliseconds.
+
+Input file 4
+Duration: 1947.93 miliseconds.
+
+Input file 5
+Duration: 408.789 miliseconds.
+
+Input file 6
+Duration: 2933.09 miliseconds.
+
+
+3. Standard Mutex Lock (My Mutex)
+Input file 1
+Duration: 58.4806 miliseconds.
+
+Input file 2
+Duration: 121.729 miliseconds.
+
+Input file 3
+Duration: 46.9607 miliseconds.
+
+Input file 4
+Duration: 135.121 miliseconds.
+
+Input file 5
+Duration: 52.692 miliseconds.
+
+Input file 6
+Duration: 134.119 miliseconds.
