@@ -1,7 +1,7 @@
 # Parallel Graph Coloring Algorithm with CUDA
 
 ## Running Instructions:
-1. Navigate to the `pgca/src` directory.
+1. Navigate to the `pgca-cuda/src` directory.
 2. Edit the number of threads per block at the beginning of the 'pgca.cu' file.
 3. Run the following command to compile the program:
     ```bash
